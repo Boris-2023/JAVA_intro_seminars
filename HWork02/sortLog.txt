@@ -1,0 +1,62 @@
+Jun 12, 2023 9:30:36 PM Task02 logBubbleSort
+INFO: Array to sort:[85, 94, 40, 45, 83, 4, 16, 75, 75, 31]
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 40 exchanges with 94
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 45 exchanges with 94
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 83 exchanges with 94
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 4 exchanges with 94
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 16 exchanges with 94
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 75 exchanges with 94
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 75 exchanges with 94
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 31 exchanges with 94
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 40 exchanges with 85
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 45 exchanges with 85
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 83 exchanges with 85
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 4 exchanges with 85
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 16 exchanges with 85
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 75 exchanges with 85
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 75 exchanges with 85
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 31 exchanges with 85
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 4 exchanges with 83
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 16 exchanges with 83
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 75 exchanges with 83
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 75 exchanges with 83
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 31 exchanges with 83
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 4 exchanges with 45
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 16 exchanges with 45
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 31 exchanges with 75
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 4 exchanges with 40
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 16 exchanges with 40
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 31 exchanges with 75
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 31 exchanges with 45
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: 31 exchanges with 40
+Jun 12, 2023 9:30:37 PM Task02 logBubbleSort
+INFO: Array sorted:[4, 16, 31, 40, 45, 75, 75, 83, 85, 94]

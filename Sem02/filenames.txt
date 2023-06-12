@@ -1,0 +1,7 @@
+Test.txt
+src
+file.txt
+bin
+output.txt
+lib
+.vscode
