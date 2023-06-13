@@ -1,2 +1,0 @@
-Jun 13, 2023 2:05:33 PM Task04 logSimpleCalc
-INFO: 5.0 + 5.0 = 10.0
