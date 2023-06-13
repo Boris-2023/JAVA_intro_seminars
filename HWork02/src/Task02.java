@@ -10,6 +10,7 @@ public class Task02 {
     public static void logBubbleSort(int size, String fName) throws IOException{
 
         Logger logger = Logger.getLogger(Task02.class.getName());
+        logger.setUseParentHandlers(false);//to avoid parallel logging into console
         FileHandler fh = new FileHandler(fName);
         logger.addHandler(fh);
         
